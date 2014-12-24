@@ -17,7 +17,9 @@ then go to the directory and type:
 
 	make; make install
 
-That's it
+That's it... Just load the kernel module: 
+	kldload ambnb
+
 
 USE:
 
